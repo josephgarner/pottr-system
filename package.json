@@ -1,0 +1,9 @@
+{
+  "private": true,
+  "workspaces": [
+    "pottr-node-api"
+  ],
+  "scripts": {
+    "nodeApi": "yarn workspace pottr-node-api serve"
+  }
+}
